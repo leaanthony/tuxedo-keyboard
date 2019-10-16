@@ -1,4 +1,4 @@
-# Go Tuxedo Keyboard
+# Tuxedo Keyboard
 
 A simple library for interfacing with Tuxedo compatible keyboards.
 
